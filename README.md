@@ -1,5 +1,31 @@
-### Hi there 👋
+# Hello.cpp
+```
+#include <iostream>
+#include <windows.h>
+using namespace std;
 
+void setColorGreen(HANDLE h) {
+    SetConsoleTextAttribute(h, FOREGROUND_GREEN);
+}
+void setColorStandart(HANDLE h) {
+    SetConsoleTextAttribute(h, FOREGROUND_INTENSITY);
+}
+
+int main(){
+  HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
+  setColorGreen(handle);
+  cout << "Greetings. Have a nice day!" << endl;
+  setColorStandart(handle);
+  return 0;
+ }
+```
+
+## _About me_
+- I am a student from Russia, studying at the Department of Corporate Information Systems Development
+- Like to play games and develop them
+
+## _My contacts_
+[![VK](https://ia.wampi.ru/2022/06/10/QEvZrVy0.png)](https://vk.com/korolandshutforever)
 <!--
 **AlexKnyaZz/AlexKnyaZz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
