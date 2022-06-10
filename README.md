@@ -1,5 +1,5 @@
 # Hello.cpp
-```
+```cpp
 #include <iostream>
 #include <windows.h>
 using namespace std;
