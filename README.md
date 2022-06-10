@@ -24,6 +24,20 @@ int main(){
 <li>I am a student from Russia, studying at the Department of Corporate Information Systems Development</li>
 <li>Like to play games and develop them</li>
 </details>
+
+
+<details><summary><i><h2>Works</h2></i></summary>
+<table>
+    <tr>
+    <th>Work</th>
+    <th>Mine/Coop</th>
+    <th>Contribution*</th>
+    </tr>
+    <tr> <td>super_bot</td> <td>Coop</td> <td>Building (from setup.py), documentation</td> </tr>
+    </table>
+    <i><p>*filled in if "Coop"</p></i>
+</details>
+
     
 ## _My contacts_
 <div align="center"><p>
