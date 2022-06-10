@@ -20,10 +20,11 @@ int main(){
  }
 ```
 
-## _About me_
-- I am a student from Russia, studying at the Department of Corporate Information Systems Development
-- Like to play games and develop them
-
+<details><summary><i><h2>About me</h2></i></summary>
+<li>I am a student from Russia, studying at the Department of Corporate Information Systems Development</li>
+<li>Like to play games and develop them</li>
+</details>
+    
 ## _My contacts_
 [![VK](https://ia.wampi.ru/2022/06/10/QEvZrVy0.png)](https://vk.com/korolandshutforever)
 <!--
