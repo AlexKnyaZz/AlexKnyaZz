@@ -41,9 +41,7 @@ int main(){
     
 ## _My contacts_
 <div align="center"><p>
-    <a href="https://vk.com/korolandshutforever"><img src="https://ia.wampi.ru/2022/06/10/QEvZrVy0.png" alt="VK"></a>
     <a href="https://discord.com/"><img src="https://github.com/AlexKnyaZz/AlexKnyaZz/blob/main/forContacts/Discord-Logo-White.png?raw=true" alt="Discord"></a>
-    <a href="https://steamcommunity.com/id/AlexKnyaZz/"><img src="https://ie.wampi.ru/2022/06/10/toppng.com-steam-logo-png-transparent-894x894.png" alt="Steam"></a>
 </p></div>
 
 <!--
